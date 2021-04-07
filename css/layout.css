@@ -40,6 +40,7 @@ body{background-color:#eee7e0;}
     }
     .independent_wrap{
         position:fixed;
+        z-index:1;
         right:-100px;
         top:200px;
         transform:rotate(90deg);
