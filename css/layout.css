@@ -419,11 +419,22 @@ body{background-color:#eee7e0;}
         height:200px;
         margin-top:40px;
     }
+    .cont_adress_box p{
+        width:100px;
+        float:left;
+        text-align:center;
+    }
+    .cont_adress_box p:first-child{
+        margin-right:50px;
+    }
+    .cont_adress_box p:last-child{
+        margin-left:50px;
+    }
     .cont_adress_box > p >a{
         text-decoration: none;
         color:#666666;
         line-height:30px;
-
+        text-align:center;
     }
     
     .contact_cont_right_wrap form{
