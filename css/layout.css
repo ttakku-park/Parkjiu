@@ -421,9 +421,14 @@ body{background-color:#eee7e0;}
         margin-top:40px;
     }
     .cont_adress_box p{
+        
         width:100px;
         float:left;
         text-align:center;
+    }
+    .cont_adress_box p:hover a{
+        opacity: 0.5;
+        transition:all 0.5s;
     }
     .cont_adress_box p:first-child{
         margin-right:50px;
@@ -436,6 +441,7 @@ body{background-color:#eee7e0;}
         color:#666666;
         line-height:30px;
         text-align:center;
+        transition:all 0.5s;
     }
     
     .contact_cont_right_wrap form{
