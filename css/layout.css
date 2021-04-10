@@ -10,7 +10,7 @@ body{background-color:#eee7e0;}
         background-color:#eee7e0;
         margin-left:auto;
         margin-right:auto;
-        height:3700px;
+        /*height 값 삭제*/
     }
     /*main*/
     .main_wrap{
@@ -239,7 +239,8 @@ body{background-color:#eee7e0;}
     #fav_wrap{
         background-color: yellow;
         width:1300px;
-        height:100px;
+        height:900px;
+        /*height:100px;*/
         
     }
     .fav_top_wrap{
@@ -277,7 +278,7 @@ body{background-color:#eee7e0;}
     .fav_contents_wrap{
         width:1100px;
         height:700px;
-        padding:100px;
+        padding:50px 100px 50px 100px;
         
     }
 
@@ -355,10 +356,7 @@ body{background-color:#eee7e0;}
         background-color:#ffffff;
         width:1300px;
         height:800px;
-        position:relative;
-        top:1150px;
-        left:50%;
-        transform:translate(-50%,0);
+        
     
     }
     .contact_top_wrap{
