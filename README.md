@@ -1,2 +1,2 @@
 # wecode_study
-wecode 사전스터디😋
+wecode_사전스터디_자기소개페이지
